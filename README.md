@@ -1,8 +1,8 @@
 # Lyftr AI Full-Stack Assignment
 
 ## 1. Live URLS
-- Frontend: <PASTE_VERCEL_URL_HERE>
-- Backend: <PASTE_RENDER_OR_HF_URL_HERE>
+- Frontend: https://lyftr-ai-chatbot-pied-theta.vercel.app
+- Backend: https://lyftr-ai-chatbot-yp5a.onrender.com
 
 ## 2. Run locally: with Docker and without
 ### With Docker
